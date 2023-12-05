@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-      <h1> <style id='mystyle' color='red' >This is my first github upload with vite</style> </h1>
+      <h1> This is my first github upload with vite</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
